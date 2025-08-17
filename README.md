@@ -257,9 +257,6 @@ We welcome contributions! Please follow these steps:
 - Include unit tests for new features
 - Update documentation as needed
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -268,25 +265,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit**: For the interactive dashboard framework
 - **Scikit-learn**: For machine learning algorithms and utilities
 
-## 📞 Support
-
-For questions, issues, or contributions:
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/fraud-detection-project/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/fraud-detection-project/discussions)
-- **Email**: your.email@example.com
-
-## 🔮 Future Enhancements
-
-Planned improvements include:
-
-- **Real-time streaming** for live transaction monitoring
-- **Advanced ensemble methods** for improved accuracy
-- **API endpoints** for integration with existing systems
-- **Multi-language support** for international deployments
-- **Advanced visualization** with more interactive charts
-- **Model drift detection** and automatic retraining
-
----
-
-**Built with ❤️ for the finance industry**
