@@ -120,6 +120,13 @@ The Streamlit dashboard provides three main sections:
    - Model interpretability tools
    - Sample selection for detailed analysis
 
+# Dashboard Screenshot
+<img width="1061" height="502" alt="image" src="https://github.com/user-attachments/assets/68cab09e-bfab-4192-9cc5-b306f3ef39d9" />
+<img width="1047" height="481" alt="image" src="https://github.com/user-attachments/assets/e4bb457c-fe44-4f26-88f3-57bd4c2467f4" />
+<img width="940" height="437" alt="image" src="https://github.com/user-attachments/assets/c7d6d5ea-0b4c-4af0-a5b2-5a01bb84354f" />
+
+
+
 ### Programmatic Usage
 
 #### Data Preprocessing
